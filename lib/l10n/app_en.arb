@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World",
+  "accedi": "Sign in",
+  "username": "Username",
+  "entra": "Sign in",
+  "campoObbligatorio": "Required field",
+  "titoloHome": "Home",
+  "benvenuto": "Hello {nome}",
+  "temaLabel": "Theme",
+  "temaAutomatico": "Auto",
+  "temaChiaro": "Light",
+  "temaScuro": "Dark",
+  "linguaLabel": "Language",
+  "linguaAutomatica": "Auto",
+  "esci": "Sign out"
+}

@@ -1,0 +1,25 @@
+{
+  "@@locale": "it",
+  "helloWorld": "Ciao Mondo",
+  "@helloWorld": {
+    "description": "Il classico saluto del programmatore alle prime armi"
+  },
+  "accedi": "Accedi",
+  "username": "Nome utente",
+  "entra": "Entra",
+  "campoObbligatorio": "Campo obbligatorio",
+  "titoloHome": "Home",
+  "benvenuto": "Ciao {nome}",
+  "@benvenuto": {
+    "placeholders": {
+      "nome": { "type": "String" }
+    }
+  },
+  "temaLabel": "Tema",
+  "temaAutomatico": "Auto",
+  "temaChiaro": "Chiaro",
+  "temaScuro": "Scuro",
+  "linguaLabel": "Lingua",
+  "linguaAutomatica": "Auto",
+  "esci": "Esci"
+}
